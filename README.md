@@ -13,8 +13,8 @@ This repository contains the code and configuration files for the Orders Report 
    - Count of Segments with Sales
 
 2. **Visualizations:**
-   - Statistical analysis based on order segments, shipping modes, states, and cities.
-   - Order trend display using doughnut graphs and linear charts.
+   - Statistical analysis based on order segments, shipping modes, states, and cities using doughnut graphs.
+   - Order trend display using linear charts.
 
 3. **Detailed Tables:**
    - Top Order IDs (Descending order based on order quantity)
@@ -26,21 +26,19 @@ This repository contains the code and configuration files for the Orders Report 
 ![image](https://github.com/Sayan-15/Orders_Report-Looker_Studio_Dashboard/assets/72929741/c1976e72-78da-4c88-9c25-9dbbcac83bd0)
 
 
-### Demo
+### Live Dashboard
 
-For a live demonstration of the Orders Report Dashboard, please visit [Demo Link](#).
+For a live demonstration of the Orders Report Dashboard, please visit [Orders Dashboard - Looker Studio](https://lookerstudio.google.com/reporting/5baad56c-8b2c-4780-b48b-189ee09f1d8e).
 
-### How to Use
+### Dataset
 
-1. Clone the repository to your local machine.
-2. Configure Looker Studio with the provided LookML files.
-3. Run the Looker project and navigate to the Orders Report Dashboard.
+Dataset - 
 
 ### Dependencies
 
 - Looker Studio
 - Google Account (for authentication)
-- Google Cloud Platform (GCP) Account
+- Google Cloud Platform (GCP) Account, if you want to recreate the same at your end.
 
 ### Contributors
 
