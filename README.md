@@ -23,7 +23,8 @@ This repository contains the code and configuration files for the Orders Report 
 
 ### Screenshots
 
-![Orders Report Dashboard](/path/to/screenshot.png)
+![image](https://github.com/Sayan-15/Orders_Report-Looker_Studio_Dashboard/assets/72929741/c1976e72-78da-4c88-9c25-9dbbcac83bd0)
+
 
 ### Demo
 
