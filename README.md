@@ -47,7 +47,7 @@ For a live demonstration of the Orders Report Dashboard, please visit [Demo Link
 
 ### License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/Sayan-15/Orders_Report-Looker_Studio_Dashboard/blob/main/LICENSE) file for details.
 
 Feel free to contribute and enhance the dashboard for better insights and usability. If you encounter any issues or have suggestions, please open an issue in the [Issues](/issues) section.
 
