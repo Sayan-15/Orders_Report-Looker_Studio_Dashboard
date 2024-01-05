@@ -20,6 +20,12 @@ This repository contains the code and configuration files for the Orders Report 
    - Top Order IDs (Descending order based on order quantity)
    - Top Customer IDs (Descending order based on order quantity)
    - Region-wise Top Selling Items (Descending order based on order quantity)
+  
+4. **Filters:**
+   - Region
+   - Segment
+   - Category
+   - Ship Mode
 
 ### Screenshots
 
